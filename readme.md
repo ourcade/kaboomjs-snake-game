@@ -5,6 +5,10 @@
 
 ## Overview
 
+This is a starter or template project for making a Snake game with Kaboom.js v0.50.1.
+
+It corresponds to a [3 part series on Youtube](https://www.youtube.com/playlist?list=PLumYWZ2t7CRui4Td_ZYDYc5jTDmisYqid).
+
 ## Getting Started
 
 Clone this repository with git and run:
